@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   - Looking for a software engineer position  
   
 ## 📫 How to reach me...  
-  - LinkedIn  
-  - sagivmishaan@gmail.com  
+  - [![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sagiv-mishaan-34262a155/)
+  - <g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji> sagivmishaan@gmail.com  
   
