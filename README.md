@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
+![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
+![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
 ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
 
 
