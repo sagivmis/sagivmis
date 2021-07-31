@@ -16,11 +16,11 @@ Here are some ideas to get you started:
   Unity and C#  
   
 ## 💬 About Me...
-  -- 2nd year Computer Science student  
-  -- Ambitious, auto-didact, hard-worker, team player.  
-  -- Looking for a software engineer position  
+  - 2nd year Computer Science student  
+  - Ambitious, auto-didact, hard-worker, team player.  
+  - Looking for a software engineer position  
   
 ## 📫 How to reach me...  
-  -- LinkedIn  
-  -- sagivmishaan@gmail.com  
+  - LinkedIn  
+  - sagivmishaan@gmail.com  
   
