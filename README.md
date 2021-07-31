@@ -9,6 +9,16 @@ Here are some ideas to get you started:
 
 <h1 style="text-align:center">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Sagiv Mishaan</h1>
 
+## Skills
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)]
+[![Python](https://img.icons8.com/color/48/000000/python--v2.png)]
+[![C](https://img.shields.io/badge/-C-000?&logo=C)]
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)]
+[![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)]
+
+
+
 ## 🔭 I’m currently working on...
   Mobile games and apps  
   
