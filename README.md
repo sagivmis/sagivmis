@@ -29,3 +29,4 @@
   - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagiv-mishaan-34262a155/)
   - <g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji> sagivmishaan@gmail.com  
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagivmis)](https://github.com/anuraghazra/github-readme-stats)
