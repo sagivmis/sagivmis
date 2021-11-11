@@ -14,7 +14,7 @@
 
 
 ## 🔭 I’m currently working on...
-  Mobile games and apps  
+  Mobile games and apps, Web apps  
   
 ## 🌱 I’m currently learning...
   Unity and C#  
