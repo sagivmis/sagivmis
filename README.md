@@ -17,7 +17,7 @@
   Mobile games and apps, Web apps  
   
 ## 🌱 I’m currently learning...
-  Unity and C#  
+  Unity and C#, and Full-Stack development  
   
 ## 💬 About Me...
   - 3rd year Computer Science student.  
