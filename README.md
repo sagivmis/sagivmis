@@ -21,7 +21,7 @@
   
 ## 💬 About Me...
   - 3rd year Computer Science student.  
-  - Colman DevClub manager.  
+  - Colman DevClub team manager.  
   - Ambitious, auto-didact, hard-worker, team player.  
   - Looking for a software engineer position  
   
